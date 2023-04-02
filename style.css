@@ -1,0 +1,29 @@
+*{
+    padding: 0; 
+    margin: 0;
+} 
+body{  
+    height: 120vh;
+    width: 100vw;
+ }
+ #backgroundImage{
+    height: 120vh;
+    position: absolute;
+    width: 100vw;
+} 
+#kovai{
+    position: absolute;
+    text-align: center;
+     padding-left: 85vh;
+   padding-top: 20vh;
+}
+#maanadu{
+    position: absolute; 
+    text-align: center;
+    width: 80vw;
+    height: 100vh;
+    padding-left: 10vw;
+    padding-top: 10vh;
+    opacity: 0.8; 
+} 
+
